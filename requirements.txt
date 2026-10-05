@@ -1,0 +1,5 @@
+discord.py
+gspread
+python-dotenv
+matplotlib
+tzdata
